@@ -1,7 +1,7 @@
-.jumbotron {
-  padding-top: 6rem;
-  background-color: #bcd4fa;
+.jumbotron img {
+  margin-top: 20px; /* Sesuaikan nilai margin sesuai kebutuhan */
 }
+
 
 section {
   padding-top: 25rem;
